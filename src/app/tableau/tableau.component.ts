@@ -4,9 +4,10 @@ declare var tableau: any;
 // The only compatible way to access tableau object in angular 2+
 
 @Component({
-  selector: 'app-tableau',
-  templateUrl: './tableau.component.html',
-  styleUrls: ['./tableau.component.scss']
+    selector: 'app-tableau',
+    templateUrl: './tableau.component.html',
+    styleUrls: ['./tableau.component.scss'],
+    standalone: false
 })
 export class TableauComponent implements AfterViewInit {
 
