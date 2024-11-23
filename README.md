@@ -43,7 +43,7 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 
 
-### Angular Version
+### Angular Version (Now 2024-> updated for version 19.x)
 
 ```
 Angular CLI: 16.1.0
